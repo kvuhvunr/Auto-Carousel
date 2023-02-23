@@ -18,8 +18,6 @@ setTimeout 함수를 이용해 설정한 width 값을 자동으로 이동.<br>
 <br>
 <br>
 
-기능적으로 현재 문제는 없으나 아쉬운 코드 부분을 발견하여 최대한 빠르게 수정 후 재업로드 하겠습니다 :) 
-
 <br>
 
 ![Apr-09-2022 20-21-14](https://user-images.githubusercontent.com/91541970/162569804-55bb4611-c707-427c-8cf1-cdd87c07d511.gif)
