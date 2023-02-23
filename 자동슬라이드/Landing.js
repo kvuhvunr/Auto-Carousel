@@ -13,7 +13,7 @@ const Landing = () => {
       .then((data) => {
         setImgList(data);
       });
-  }, [setImgList]);
+  }, []);
 
   return (
     <div className="landing">
